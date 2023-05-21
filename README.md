@@ -4,7 +4,7 @@
 <sub>[More Projects](https://github.com/jhpenas/portfolio).</sub>
 
 ## Project
-This project consists in chicken detector, using YOLO v8, and the pretrained application _yolov8l.pt_, which result is available in the video below.
+This project consists in chicken detector, using YOLO v8, and the pretrained model _yolov8l.pt_, which result is available in the video below.
 
 
 ## Video Outcome
