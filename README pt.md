@@ -1,16 +1,15 @@
-# Chicken Detector
-<sub>Em Português [aqui](https://github.com/jhpenas/saurianSoccerSimulator/blob/main/README%20pt.md).</sub>
+# Detector de Galinhas
+<sub>In English [here](https://github.com/jhpenas/chickenDetector).</sub>
 
-<sub>[More Projects](https://github.com/jhpenas/portfolio).</sub>
+<sub>[Mais Projects](https://github.com/jhpenas/portfolio).</sub>
 
-## Project
-This project consists in chicken detector, using YOLO v8, and the pretrained application _yolov8l.pt_, which result is available in the video below.
+## Projeto
+Este projeto consiste em um detector de galinhas, utilizando o YOLO v8, com o modelo pré-treinado _yolov8l.pt_, cujo resultado está disponível no vídeo abaixo.
 
-
-## Video Outcome
+## Resultado
 
 https://github.com/jhpenas/chickenDetector/assets/64301697/b2784827-ed02-44cf-bb68-95a379df8acf
 
 
 
-This project was an adaptation of the project developed in the event _Computational Vision Revolution_ by Carlos Melo. 
+Este projeto foi uma adaptação do projeto desenvolvido no evento _Revolução da Visão Computacional_ por Carlos Melo. 
