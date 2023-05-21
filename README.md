@@ -1,5 +1,5 @@
 # Chicken Detector
-<sub>Em Português [aqui](https://github.com/jhpenas/saurianSoccerSimulator/blob/main/README%20pt.md).</sub>
+<sub>Em Português [aqui](https://github.com/jhpenas/chickenDetector/blob/main/README%20pt.md).</sub>
 
 <sub>[More Projects](https://github.com/jhpenas/portfolio).</sub>
 
