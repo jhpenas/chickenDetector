@@ -9,7 +9,11 @@ This project consists in chicken detector, using YOLO v8, and the pretrained mod
 
 ## Video Outcome
 
-https://github.com/jhpenas/chickenDetector/assets/64301697/b2784827-ed02-44cf-bb68-95a379df8acf
+
+
+https://github.com/jhpenas/chickenDetector/assets/64301697/7696e97b-44aa-4074-a5f6-be102983517e
+
+
 
 
 
